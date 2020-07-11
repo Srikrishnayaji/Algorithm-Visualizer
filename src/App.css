@@ -1,0 +1,22 @@
+.array-conatiner {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.justify{
+  justify-content: center;
+}
+
+.array-bar {
+  display: inline-flex;
+  background-color: #292b2c;
+  color: #f7f7f7;
+  margin-right: 1px;
+  width: 0.5%;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
