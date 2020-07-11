@@ -40,6 +40,12 @@ An application developed using ***ReactJS*** which helps visualize the various s
 ```
 ---
 
+## Screenshots
+
+![initial](screenshots/init.png)   | ![sorting](screenshots/sorting.png)
+
+
+
 
 
 
